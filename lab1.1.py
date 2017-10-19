@@ -1,6 +1,6 @@
 import math
 
-tmpn = input("Input N: ")
+tmpn = input("Введите N: ")
 n = int(tmpn)
 result = []
 result.append(2)
